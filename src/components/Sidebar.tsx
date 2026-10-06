@@ -1,3 +1,4 @@
+import React from 'react';
 import { Shield, LayoutDashboard, Cpu, Activity, AlertTriangle, Bell, Settings, Wifi, WifiOff } from 'lucide-react';
 import type { Page } from '../types';
 

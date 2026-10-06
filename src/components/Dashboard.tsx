@@ -1,3 +1,4 @@
+import React from 'react';
 import { Cpu, MemoryStick, Users, GitBranch, TrendingUp, TrendingDown, Shield, AlertTriangle } from 'lucide-react';
 import { AreaChart, Area, ResponsiveContainer, Tooltip } from 'recharts';
 import type { SystemMetrics, HistoryPoint, ProcessInfo, DeadlockCycle } from '../types';

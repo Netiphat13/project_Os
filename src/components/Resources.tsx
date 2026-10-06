@@ -1,3 +1,4 @@
+import React from 'react';
 import { AreaChart, Area, XAxis, YAxis, ResponsiveContainer, Tooltip, CartesianGrid } from 'recharts';
 import { Cpu, MemoryStick, HardDrive, Wifi } from 'lucide-react';
 import type { SystemMetrics, HistoryPoint } from '../types';
